@@ -1,6 +1,6 @@
 package lsy.singleton;
 
-import org.junit.Test;
+
 
 /**
  * @author lsy
