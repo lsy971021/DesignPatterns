@@ -10,15 +10,15 @@ package lsy.singleton;
  * 简单实用，推荐使用！
  * 唯一缺点：不管用到与否，类装载时就完成实例化
  */
-public class Test01 {
-    public static final Test01 test01 = new Test01();
+public class Hungry01 {
+    public static final Hungry01 HUNGRY_01 = new Hungry01();
 
     /**
      * 用private确保别人不能new
      */
-    private Test01() {
+    private Hungry01() {
     }
-    public static Test01 getTest01(){
-        return test01;
+    public static Hungry01 getHungry01(){
+        return HUNGRY_01;
     }
 }
