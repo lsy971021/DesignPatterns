@@ -5,6 +5,7 @@ import java.util.List;
 
 /**
  * @author lsy
+ * 存放所有filter
  */
 public class FilterChain implements Filter{
     static final List<Filter> filterList;
