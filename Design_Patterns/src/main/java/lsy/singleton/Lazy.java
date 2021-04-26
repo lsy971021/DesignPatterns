@@ -3,6 +3,7 @@ package lsy.singleton;
 /**
  * @author lsy
  * 懒汉式
+ * 类似Spring IOC
  * getTest03_3、getTest03_4 可以解决getTest03_4更合适；
  */
 public class Lazy {

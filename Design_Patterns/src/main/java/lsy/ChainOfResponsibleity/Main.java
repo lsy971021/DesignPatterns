@@ -2,6 +2,7 @@ package lsy.ChainOfResponsibleity;
 
 /**
  * @author lsy
+ * 类似拦截器(Spring MVC)、AOP等
  */
 public class Main {
     public static void main(String[] args) {
