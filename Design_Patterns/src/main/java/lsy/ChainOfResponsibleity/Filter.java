@@ -1,4 +1,4 @@
-package lsy.ChainOfResponsibleity;
+package lsy.chainOfResponsibleity;
 
 /**
  * @author lsy

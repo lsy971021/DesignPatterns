@@ -1,4 +1,4 @@
-package lsy.ChainOfResponsibleity;
+package lsy.chainOfResponsibleity;
 
 import java.util.ArrayList;
 import java.util.List;
