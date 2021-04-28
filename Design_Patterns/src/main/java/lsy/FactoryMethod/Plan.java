@@ -1,4 +1,4 @@
-package lsy.factory.FactoryMethod;
+package lsy.FactoryMethod;
 
 public class Plan implements MoveAble {
     @Override

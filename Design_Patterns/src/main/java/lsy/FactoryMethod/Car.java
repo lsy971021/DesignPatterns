@@ -1,4 +1,4 @@
-package lsy.factory.FactoryMethod;
+package lsy.FactoryMethod;
 
 public class Car implements MoveAble {
     @Override

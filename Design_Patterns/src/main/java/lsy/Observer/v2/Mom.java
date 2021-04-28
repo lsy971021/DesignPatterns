@@ -1,4 +1,4 @@
-package lsy.Observer.v2;
+package lsy.observer.v2;
 
 public class Mom implements Observer {
     public void feed(){

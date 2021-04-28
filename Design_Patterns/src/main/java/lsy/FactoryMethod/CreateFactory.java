@@ -1,4 +1,4 @@
-package lsy.factory.FactoryMethod;
+package lsy.FactoryMethod;
 
 /**
  * @author lsy

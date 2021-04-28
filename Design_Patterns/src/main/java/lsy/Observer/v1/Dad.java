@@ -1,4 +1,4 @@
-package lsy.Observer.v1;
+package lsy.observer.v1;
 
 /**
  * @author lsy
