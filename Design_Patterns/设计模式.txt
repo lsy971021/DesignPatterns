@@ -1,12 +1,10 @@
 Java中的23种设计模式：
-Factory（工厂模式）， Builder（建造模式）， Factory Method（工厂方法模式），
-Prototype（原始模型模式），Singleton（单例模式）， Facade（门面模式），
-Adapter（适配器模式）， Bridge（桥梁模式）， Composite（合成模式），
-Decorator（装饰模式）， Flyweight（享元模式）， Proxy（代理模式），
-Command（命令模式）， Interpreter（解释器模式）， Visitor（访问者模式），
-Iterator（迭代子模式）， Mediator（调停者模式）， Memento（备忘录模式），
-Observer（观察者模式）， State（状态模式）， Strategy（策略模式），
-Template Method（模板方法模式）， Chain Of Responsibleity（责任链模式）
+Prototype（原始模型模式）Facade（门面模式），
+Bridge（桥梁模式）
+Command（命令模式）， Interpreter（解释器模式）
+Mediator（调停者模式）， Memento（备忘录模式），
+State（状态模式）
+Template Method（模板方法模式）
 
 创建型模式:
     单例（Singleton）模式
@@ -14,3 +12,11 @@ Template Method（模板方法模式）， Chain Of Responsibleity（责任链�
     工厂方法（Factory Method）模式
     抽象工厂（Abstract Factory）模式
     和建造者（Builder）模式
+结构型模式:(可以分为类结构型模式和对象结构型模式)，也可分为
+    代理模式（Proxy）
+    适配器模式（Adapter）
+    桥接模式（Bridge）
+    装饰模式 （Decorator ）
+    外观模式（Facade）
+    享元模式（Flyweight
+    组合模式（Composite
