@@ -21,11 +21,8 @@ import java.util.concurrent.locks.LockSupport;
  */
 public class Main {
     public static void main(String[] args) {
-        new Thread(() -> {
-            Command command = new ComputerCommand();
-            Invoker invoker = new Invoker(command);
-            invoker.action();
-
-        }).start();
+        Command command = new ComputerCommand();
+        Invoker invoker = new Invoker(command);
+        invoker.action();
     }
 }

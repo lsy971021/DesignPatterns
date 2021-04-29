@@ -1,7 +1,7 @@
 Java中的23种设计模式：
 Prototype（原始模型模式）Facade（门面模式），
 Bridge（桥梁模式）
-Command（命令模式）， Interpreter（解释器模式）
+Interpreter（解释器模式）
 Mediator（调停者模式）， Memento（备忘录模式），
 State（状态模式）
 Template Method（模板方法模式）
@@ -18,5 +18,17 @@ Template Method（模板方法模式）
     桥接模式（Bridge）
     装饰模式 （Decorator ）
     外观模式（Facade）
-    享元模式（Flyweight
-    组合模式（Composite
+    享元模式（Flyweight）
+    组合模式（Composite）
+行为型模式:
+    模板方法（Template Method）模式
+    策略（Strategy）模式
+    命令（Command）模式
+    职责链（Chain of Responsibility）模式
+    状态（State）模式
+    观察者（Observer）模式
+    中介者（Mediator）模式
+    迭代器（Iterator）模式
+    访问者（Visitor）模式
+    备忘录（Memento)模式
+    解释器（Interpreter）模式。
